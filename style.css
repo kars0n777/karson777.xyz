@@ -1,0 +1,16 @@
+body {
+	color: #bd93f9;
+	background: #000000;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1, h2, h3 {
+	color: #ff89c6;
+	text-align: center;
+}
+
+.icon {
+	width: 100px;
+}
