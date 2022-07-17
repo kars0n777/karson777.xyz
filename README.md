@@ -1,7 +1,7 @@
 # karson777's test html site
 
-- this is my first html site to figure out the process of making a website
-- i still need to learn about <div> flags and things of that nature
-- i also want to learn how to make a customizable blog with html and setup and vps with a mailserver later on
+- this is my first website so but is extrememly minimal
+- the website is over at [karson777.xyz](karson777.xyz)
+- planning on moving to [hugo](https://gohugo.io/) in the future
 
 **i do not own any of the images used**
