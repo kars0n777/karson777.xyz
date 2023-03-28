@@ -14,3 +14,29 @@ h1, h2, h3 {
 .icon {
 	width: 100px;
 }
+
+a:link {
+  color: #ff5555;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ff5555;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f1fa8c;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+@font-face {
+  font-family: mononoki-nerd;
+  src: url(src/mononoki-nerd.ttf);
+}
+body {
+  font-family: "mononoki", monospace;
+}
