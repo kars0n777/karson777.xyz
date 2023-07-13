@@ -19,8 +19,13 @@ h3 {
   text-align: center;
 }
 
-.icon {
+.logo {
   width: 100px;
+}
+
+.icon {
+  max-height: 1.3em;
+  max-width: 1.3em
 }
 
 a:link {
